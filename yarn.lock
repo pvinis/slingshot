@@ -306,10 +306,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@tsconfig/vite-react@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@tsconfig/vite-react/-/vite-react-1.0.0.tgz#020cf5a40b179768a34612b19fa3c219b42a6df5"
-  integrity sha512-GHiDPI2dWPqyotRcqvGijlMG9j02aabFx+GxkTXBJWiw02jbkvjJ2uoptrAzJEYfbGmxrbuR+m1m262hkyputA==
+"@tsconfig/vite-react@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@tsconfig/vite-react/-/vite-react-1.0.1.tgz#2d2e4e90a9d2b299d4c332fa6c080d3ab36d47cb"
+  integrity sha512-6Tv0UI88QPSkNobzoI8tMXjHX1j723yPBhrQ+z+gphvTIj7KcH0KF1MjUlPrIgh5TEpRMH8jF5ezZ5qQ0iHGvw==
 
 "@types/prop-types@*":
   version "15.7.5"
