@@ -11,7 +11,7 @@
 		"react-dom": "18.2.0"
 	},
 	"devDependencies": {
-		"@tsconfig/vite-react": "1.0.0",
+		"@tsconfig/vite-react": "1.0.1",
 		"@types/react": "18.0.16",
 		"@types/react-dom": "18.0.6",
 		"@vitejs/plugin-react": "2.0.0",
